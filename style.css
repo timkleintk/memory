@@ -1,0 +1,29 @@
+.plaatje {
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+}
+
+#wrapper {
+  width: 728px;
+  position: relative;
+  top: 25px;
+
+  margin: auto;
+}
+
+#hider {
+  position: absolute;
+  margin: auto;
+  z-index: 1;
+}
+
+#options {
+  width: 210px;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+p select {
+display: none;
+}
